@@ -1,0 +1,15 @@
+C:\Users\MKP\OneDrive\Masaüstü\abc\.dotnet konsol\Koleksiyonlar\Soru-1\bin\Debug\net7.0\Soru-1.exe
+C:\Users\MKP\OneDrive\Masaüstü\abc\.dotnet konsol\Koleksiyonlar\Soru-1\bin\Debug\net7.0\Soru-1.deps.json
+C:\Users\MKP\OneDrive\Masaüstü\abc\.dotnet konsol\Koleksiyonlar\Soru-1\bin\Debug\net7.0\Soru-1.runtimeconfig.json
+C:\Users\MKP\OneDrive\Masaüstü\abc\.dotnet konsol\Koleksiyonlar\Soru-1\bin\Debug\net7.0\Soru-1.dll
+C:\Users\MKP\OneDrive\Masaüstü\abc\.dotnet konsol\Koleksiyonlar\Soru-1\bin\Debug\net7.0\Soru-1.pdb
+C:\Users\MKP\OneDrive\Masaüstü\abc\.dotnet konsol\Koleksiyonlar\Soru-1\obj\Debug\net7.0\Soru-1.csproj.AssemblyReference.cache
+C:\Users\MKP\OneDrive\Masaüstü\abc\.dotnet konsol\Koleksiyonlar\Soru-1\obj\Debug\net7.0\Soru-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MKP\OneDrive\Masaüstü\abc\.dotnet konsol\Koleksiyonlar\Soru-1\obj\Debug\net7.0\Soru-1.AssemblyInfoInputs.cache
+C:\Users\MKP\OneDrive\Masaüstü\abc\.dotnet konsol\Koleksiyonlar\Soru-1\obj\Debug\net7.0\Soru-1.AssemblyInfo.cs
+C:\Users\MKP\OneDrive\Masaüstü\abc\.dotnet konsol\Koleksiyonlar\Soru-1\obj\Debug\net7.0\Soru-1.csproj.CoreCompileInputs.cache
+C:\Users\MKP\OneDrive\Masaüstü\abc\.dotnet konsol\Koleksiyonlar\Soru-1\obj\Debug\net7.0\Soru-1.dll
+C:\Users\MKP\OneDrive\Masaüstü\abc\.dotnet konsol\Koleksiyonlar\Soru-1\obj\Debug\net7.0\refint\Soru-1.dll
+C:\Users\MKP\OneDrive\Masaüstü\abc\.dotnet konsol\Koleksiyonlar\Soru-1\obj\Debug\net7.0\Soru-1.pdb
+C:\Users\MKP\OneDrive\Masaüstü\abc\.dotnet konsol\Koleksiyonlar\Soru-1\obj\Debug\net7.0\Soru-1.genruntimeconfig.cache
+C:\Users\MKP\OneDrive\Masaüstü\abc\.dotnet konsol\Koleksiyonlar\Soru-1\obj\Debug\net7.0\ref\Soru-1.dll
